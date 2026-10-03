@@ -6,7 +6,7 @@ public class ClassC {
 
         System.out.println("something...");
         System.out.println("Hello from Main");
-        System.out.println("Hello from local");
+
 
 
     }
